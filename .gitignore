@@ -11,3 +11,6 @@ wa-session/
 **.node-persist**
 **_IGNORE_**
 # end managed
+
+# internal review docs
+fable-*.md
